@@ -7,11 +7,12 @@
     "@popperjs/core": "^2.4.0",
     "bootstrap": "^4.4.1",
     "jquery": "1.9.1 - 3",
+    "node-modules": "^1.0.1",
     "qrcode": "^1.4.4"
   },
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "now-build": "parcel build index.html"
   },
   "devDependencies": {
     "cssnano": "^4.1.10",
