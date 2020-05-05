@@ -10,10 +10,9 @@
     "qrcode": "^1.4.4"
   },
   "scripts": {
-    "start": "parcel build index.html"
+    "start": "parcel index.html"
   },
   "devDependencies": {
-    "cssnano": "^4.1.10",
     "sass": "^1.26.5"
   }
 }
