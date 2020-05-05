@@ -1,4 +1,4 @@
-export const HOST = 'http://localhost:1789';
+export const HOST = 'https://zalopay-backend.herokuapp.com';
 
 export const APIs = {
   QR: HOST + '/api/createorder?ordertype=createorder',
